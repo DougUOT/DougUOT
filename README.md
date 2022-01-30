@@ -15,7 +15,8 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=douguot.douguot)
 [![Github](https://img.shields.io/github/followers/douguot?label=Follow&style=social)](https://github.com/DougUOT)
 ![GitHub language count](https://img.shields.io/github/languages/count/douguot/Mapping_Earthquakes)
-![GitHub forks](https://img.shields.io/github/forks/douguot/SQL_PewlettHackardAnalysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/douguot/douguot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/douguot/douguot?style=social)
 
 
   ##

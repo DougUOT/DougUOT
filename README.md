@@ -4,12 +4,14 @@
 
 ---
 
-# Hi, I'm Douglas Oliveira 👋 :technologist:
+# Hi, I'm Douglas Oliveira <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" height="38" width="38" >
+
 
   <h4> <em>🧑‍🎓 I'm an Bootcamper of Data Science at University of Toronto, Canada </em></h4>
   
-  <h4> <em>💻 A passionate data-driven analyst with several years of experience identifying key metrics and business problems within databases, while communicating needs from cross-functional departments. </em></hr>
+  <h4> <em>💻 A passionate data-driven analyst with a background in business, supply chain, project management and client management. </em></hr>
   <h4> <em>🔑 10+ experience in Business Analyst, CPFR, Supply Chain and Project Management </em> </h4>
+  <h4> <em>💰 Seeking to leverage data analytical skills to improve corporate performance as a data analyst. </em> </h4>
   
  ---
   

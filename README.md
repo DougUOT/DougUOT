@@ -50,6 +50,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" height="40" style="vertical-align:top; margin:4px">
 <img src="https://wakatime.com/static/img/editor-icons/excel-128.png" alt="Exel" height="40" style="vertical-align:top; margin:4px">
+<img src="https://financeandbusiness.ucdavis.edu/sites/g/files/dgvnsk4871/files/styles/sf_landscape_16x9/public/images/article/tableau_logo_2.png?h=c673cd1c&itok=Xie5DAhG" alt="Tableau" height="40" style="vertical-align:top; margin:4px">
 </p>
   
  ---

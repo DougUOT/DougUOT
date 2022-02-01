@@ -9,7 +9,7 @@
 
   <h4> <em>🧑‍🎓 I'm SCS Data Analytics student at the University of Toronto, Canada [Apr 22] </em></h4>
   
-  <h4> <em>💻 A passionate data-driven analyst with a background in business, supply chain, project management and client management. </em></hr>
+  <h4> <em>💻 A passionate data-driven analyst with a background in Business, Supply Chain, Project Management and Client Management. </em></hr>
   <h4> <em>🔑 10+ experience in Business Analyst, CPFR, Supply Chain and Project Management </em> </h4>
   <h4> <em>💰 Seeking to leverage data analytical skills to improve corporate performance as a data analyst. </em> </h4>
   

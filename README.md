@@ -7,7 +7,7 @@
 # Hi, I'm Douglas Oliveira <img src="https://github.com/ABSphreak/ABSphreak/raw/master/gifs/Hi.gif" height="38" width="38" >
 
 
-  <h4> <em>🧑‍🎓 I'm SCS Data Analytics/Science and visualization at the University of Toronto, Canada </em></h4>
+  <h4> <em>🧑‍🎓 Graduated at SCS Data Analytics and visualization at the University of Toronto (UOT) | Ottawa, Ontario, Canada </em></h4>
   
   <h4> <em>💻 A passionate data-driven analyst with a background in Business, Supply Chain, Project Management and Client Management. </em></hr>
   <h4> <em>🔑 10+ experience in Business Analyst, CPFR, Supply Chain and Project Management </em> </h4>
